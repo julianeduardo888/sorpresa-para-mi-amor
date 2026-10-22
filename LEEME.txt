@@ -1,0 +1,38 @@
+SORPRESA ROMÁNTICA CON MÚSICA 💗
+===================================
+
+1. Abre index.html en Visual Studio Code.
+2. Personaliza los textos en la sección `const sorpresa = { ... }`.
+3. Añade tus fotos a la carpeta fotos/ con los nombres foto1.jpg, foto2.jpg y foto3.jpg,
+   o modifica sus nombres dentro de `const sorpresa`.
+4. Ya viene con una melodía instrumental original de ejemplo:
+     musica/cancion.mp3
+   Para usar vuestra canción favorita, reemplaza ese archivo por tu propio MP3
+   usando EXACTAMENTE ese nombre y esa ruta. Usa audio que puedas compartir legalmente.
+   No basta con copiar un enlace de Spotify o YouTube en src: debe ser un archivo de audio.
+5. Al abrir la página se muestra una pantalla de bienvenida. Al tocar
+   «Abrir mi sorpresa 🎶», comienza la música. Esto es necesario porque los
+   navegadores de celular bloquean el sonido automático sin interacción.
+   Puede pausarla o activarla con el botón flotante.
+6. Comprueba abriendo index.html en tu navegador y tocando el botón.
+
+PARA HACER EL LINK EN GITHUB PAGES
+================================
+- Entra en github.com, abre TU repositorio.
+- En la pestaña Code, asegura que `index.html` esté en la RAÍZ
+  y que `musica/cancion.mp3` y `fotos/...` estén subidos.
+- Si ya habías subido la versión sin música, actualiza SOLO tu index.html
+  con los añadidos nuevos. No reemplaces una versión que ya personalizaste
+  por esta plantilla sin copiar primero tus textos, fotos o cambios.
+- Ve a Settings > Pages.
+- En Build and deployment, Source: Deploy from a branch.
+- Branch: main y carpeta /(root). Guarda con Save.
+- Una vez publicado, aparecerá el enlace en Settings > Pages.
+  Habitualmente: https://USUARIO.github.io/NOMBRE-DEL-REPOSITORIO/
+- Verifica el enlace desde el celular antes de enviarlo.
+
+NOTA SOBRE PRIVACIDAD
+====================
+La página y las fotos subidas a GitHub Pages pueden ser vistas por cualquiera
+que tenga el enlace, y los archivos en repositorios públicos también pueden
+ser accesibles directamente.

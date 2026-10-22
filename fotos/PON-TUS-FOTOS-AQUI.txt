@@ -1,0 +1,6 @@
+Copia aquí tus fotos y nómbralas:
+Fotos Flaquita y Yo (3).jpeg
+Fotos Flaquita y Yo (2).jpeg
+Fotos Flaquita y Yo (5).jpeg
+
+También puedes usar .png o .jpeg, cambiando las rutas en index.html.
